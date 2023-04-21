@@ -41,7 +41,7 @@ La vidéo de vulgarisation est disponible ici : https://youtu.be/NsH3ifd8bCo
 
 Les références de nos différents articles sont disponibles ci-dessous. (Pour le troisième état de l'art, toutes les références sont à retrouver directement dans le document)
 
-### Etat de l'art 1 : Sélection de variable pour l'approche supervisé
+### Etat de l'art 1 : Sélection de variables pour l'approche supervisée
 [1] Battiti, R. (1994).  Using Mutual Information for Selecting Features in Supervised Neural Net Learning.  
 *IEEE Trans*. Neural Netw. 5, 537–550.    
 
@@ -142,7 +142,7 @@ international ICSC symposium on advances in intelligent data analysis.* Vol. 23.
 [34] Ziegler, A., DeStefano, A. L., König, I. R., & Group 6. (2007). Data mining, neural nets, trees—problems 
 2 and 3 of genetic analysis workshop 15. *Genetic epidemiology*, 31(S1), S51-S60.
 
-### Etat de l'art 2 : Sélection de variable pour l'approche semi-supervisé
+### Etat de l'art 2 : Sélection de variables pour l'approche semi-supervisée
 [1]  Ang,  J.  C.,  Haron,  H.,  &  Hamed,  H.  N.  A.  (2015,  May).  Semi-supervised  SVM-based  feature 
 selection  for  cancer  classification  using  microarray  gene  expression  data.  *In Current  Approaches  in 
 Applied  Artificial  Intelligence:  28th  International  Conference  on  Industrial,  Engineering  and  Other 
