@@ -29,7 +29,7 @@ Afin d'aborder en profondeur les différentes notions rattachées à ce sujet FS
 - Sélection de variables appliquée à l'univers multi-label et multi-label partiel (PML)
 
 Ces 3 parties ont l'avantage d'être progressive.   
-**Tout d'abord**, notre premier état de l'art présente les différentes catégories de sélection de variables en se basant sur le mode d'apprentissage le plus répandu : Supervisé, mono-label. Nous introduisons ainsi les trois grandes approches de sélection de variables que sont les filtres, les wrappers et les méthodes embedded.
+**Tout d'abord**, notre premier état de l'art présente les différentes catégories de sélection de variables en se basant sur le mode d'apprentissage le plus répandu : Supervisé, mono-label. Nous introduisons ainsi les trois grandes approches de sélection de variables que sont les filtres, les wrappers et les méthodes embedded.   
 **Nous** appliquons ensuite un focus sur l'approche semi-supervisée dépendant à la fois de l'approche supervisée et non-supervisée.    
 **Enfin**, nous appliquons les connaissances précédemment étudiées à l'univers multi-label. Ici chaque instance initiale est rattachée à plusieurs labels en sortie. Cette partie est l'occasion pour nous d'étudier en détail la sélection de variables en mode multi-label partiel, point d'orgue de nos 6 mois de travail.
 
