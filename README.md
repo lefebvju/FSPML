@@ -195,5 +195,5 @@ Applied Mathematics. *
 [15] Zhang, D., Chen, S., & Zhou, Z. H. (2008). Constraint score: A new filter method for feature 
 selection with pairwise constraints, *Pattern Recognition*, 41(5), 1440-1451.
 
-### Etat de l'art 3 : Sélection de variable pour le multi-label & partial multi label
-En cours...
+### Etat de l'art 3 : Sélection de variable pour le multi-label & multi-label partiel
+Voir Etat de l'art (C). 
