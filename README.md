@@ -151,7 +151,7 @@ Proceedings (pp. 468-477). Cham: Springer International Publishing.
 
 [2]  Barkia,  H.,  Elghazel,  H.,  &  Aussem,  A.  (2011,  December).  Semi-supervised  feature  importance 
 evaluation with ensemble learning. *2011 IEEE 11th International Conference on Data Mining (pp. 31-
-40). IEEE. *
+40). IEEE.*
 
 [3] Belkin, M., Niyogi, P., Sindhwani, V. (2006) Manifold regularization: A geometric framework for 
 learning from labeled and unlabeled examples. *Journal of Machine Learning Research*, 7:2399–2434. 
@@ -179,18 +179,18 @@ feature selection:A comparative study. *Pattern Recognition Letters*, 32(5), 656
 
 [10] Ren, J., Qiu, Z., Fan, W., Cheng, H., & Yu, P. S. (2008). Forward semi-supervised feature selection. 
 *Advances  in  Knowledge  Discovery  and  Data  Mining:  12th  Pacific-Asia  Conference,  PAKDD  2008 
-Osaka, Japan, May 20-23, 2008 Proceedings 12 (pp. 970-976). Springer Berlin Heidelberg. *
+Osaka, Japan, May 20-23, 2008 Proceedings 12 (pp. 970-976). Springer Berlin Heidelberg.*
 
 [11] Xu, Z., King, I., Lyu, M. R. T., & Jin, R. (2010). Discriminative semi-supervised feature selection 
 via manifold regularization. *IEEE Transactions on Neural networks*, 21(7), 1033-1047. 
 
 [12] Yang, M., Chen, Y. J., Ji, G. L. (2010). Semi_Fisher Score: A semi-supervised method for feature 
 selection. *2010 International Conference on Machine Learning and Cybernetics (Vol. 1, pp. 527-532). 
-IEEE. *
+IEEE.*
 
 [13] Zhao, Z., Liu, H. (2007). Semi-supervised feature selection via spectral analysis, *Proceedings of 
 the  2007  SIAM  international  conference  on  data  mining (pp.  641-646).  Society  for  Industrial  and 
-Applied Mathematics. *
+Applied Mathematics.*
 
 [14] Zhao, J., Lu, K., & He, X. (2008). Locality sensitive semi-supervised feature lection. 
 *Neurocomputing*, 71(10-12), 1842-1849. 
