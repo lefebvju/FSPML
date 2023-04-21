@@ -36,7 +36,10 @@ Ces 3 parties ont l'avantage d'être progressive.
 
 ## Nos productions
 Nos 3 états de l'art sont à retrouver dans les fichiers PDF de ce dépôt.  
-Les références de nos différents articles sont disponibles ci-dessous.
+
+La vidéo de vulgarisation est disponible ici : https://youtu.be/NsH3ifd8bCo
+
+Les références de nos différents articles sont disponibles ci-dessous. (Pour le troisième état de l'art, toutes les références sont à retrouver directement dans le document)
 
 ### Etat de l'art 1 : Sélection de variable pour l'approche supervisé
 [1] Battiti, R. (1994).  Using Mutual Information for Selecting Features in Supervised Neural Net Learning.  
