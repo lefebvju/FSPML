@@ -1,6 +1,6 @@
 # Ouverture à la recherche
 Auteur : LEFEBVRE Julien, MERCIER LORIS  
-## **SUJET** : Sélection de variables pour l'approche **Partial Multi-Label** (PML)  
+## **SUJET** : FSPML -> Sélection de variables pour l'approche **Partial Multi-Label**
 >La sélection de variables est une tâche primordiale dans les 
 processus d’apprentissage automatique et de data mining. Elle 
 consiste à « nettoyer » l’espace de description des données en 
@@ -20,11 +20,25 @@ significative (en Python) des approches investiguées avec des
 tests statistiques à l’appui.
 
 
+## Rapport d'avancement
+Problématique d'étude très récente, la sélection de variables appliquées au multi-label partiel n'en ai pour l'heure qu'au stade embryonnaire des recherches. 
+
+Afin d'aborder en profondeur les différentes notions rattachées à ce sujet FSPML, nous avons fait le choix en concertation avec nos encadrants de projet de traduire ce sujet en trois état de l'art :
+- Sélection de variables supervisés mono-label
+- Sélection de variables semi-supervisés mono-label
+- Sélection de variables appliqué à l'univers multi-label et multi-label partiel (PML)
+
+Ces 3 parties ont l'avantage d'être progressive.   
+**Tout d'abord**, notre premier état de l'art présente les différentes catégories de sélection de variables en se basant sur le mode d'apprentissage le plus répendu : Supervisé, mono-label. Nous introduisons ainsi les trois grandes approches de sélection de variables que sont les filtres, les wrappers et les méthodes embedded.
+**Nous** appliquons ensuite un focus sur l'approche semi-supervisée dépendant à la fois de l'approche supervisé et non-supervisé.  
+**Enfin**, nous appliquons les connaissances précédemment étudiées à l'univers multi-label. Ici chaque instance initiale est rattachée à plusieurs labels en sortie. Cette partie est l'ocasion pour nous d'étudier en détail la sélection de variables en mode multi-label partiel, point d'orgue de nos 6 mois de travail.
+
 
 ## Nos productions
-Toutes nos productions sont à retrouver dans les fichiers PDF de ce dépôt.  
+Nos 3 états de l'art sont à retrouver dans les fichiers PDF de ce dépôt.  
 Les références de nos différents articles sont disponibles ci-dessous.
-### Etat de l'art 1 : Séléction de variable pour l'approche supervisé
+
+### Etat de l'art 1 : Sélection de variable pour l'approche supervisé
 [1] Battiti, R. (1994).  Using Mutual Information for Selecting Features in Supervised Neural Net Learning.  
 *IEEE Trans*. Neural Netw. 5, 537–550.    
 
@@ -125,7 +139,7 @@ international ICSC symposium on advances in intelligent data analysis.* Vol. 23.
 [34] Ziegler, A., DeStefano, A. L., König, I. R., & Group 6. (2007). Data mining, neural nets, trees—problems 
 2 and 3 of genetic analysis workshop 15. *Genetic epidemiology*, 31(S1), S51-S60.
 
-### Etat de l'art 2 : Séléction de variable pour l'approche semi-supervisé
+### Etat de l'art 2 : Sélection de variable pour l'approche semi-supervisé
 [1]  Ang,  J.  C.,  Haron,  H.,  &  Hamed,  H.  N.  A.  (2015,  May).  Semi-supervised  SVM-based  feature 
 selection  for  cancer  classification  using  microarray  gene  expression  data.  *In Current  Approaches  in 
 Applied  Artificial  Intelligence:  28th  International  Conference  on  Industrial,  Engineering  and  Other 
@@ -181,5 +195,5 @@ Applied Mathematics. *
 [15] Zhang, D., Chen, S., & Zhou, Z. H. (2008). Constraint score: A new filter method for feature 
 selection with pairwise constraints, *Pattern Recognition*, 41(5), 1440-1451.
 
-### Etat de l'art 3 : Séléction de variable pour le multi-label & partial multi label
+### Etat de l'art 3 : Sélection de variable pour le multi-label & partial multi label
 En cours...
